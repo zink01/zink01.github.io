@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zink01.github.io/zinkkup/categories/</loc>
+    <loc>https://zink01.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zink01.github.io/zinkkup/tags/</loc>
+    <loc>https://zink01.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zink01.github.io/zinkkup/</loc>
+    <loc>https://zink01.github.io/</loc>
     <priority>0</priority>
   </url>
   
