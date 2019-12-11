@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zinkkup - Coffee. Tea. Bakery</title>
-    <link>https://zink01.github.io/</link>
-    <description>Recent content on Zinkkup - Coffee. Tea. Bakery</description>
+    <title>Zinkkup - Coffee, Tea, Cake, Fast food</title>
+    <link>http://zinkkup.com/</link>
+    <description>Recent content on Zinkkup - Coffee, Tea, Cake, Fast food</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://zink01.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zinkkup.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
