@@ -69,7 +69,7 @@
 									'</button>'+
 								  '</div>');
 			$list.parent().on("click", ".btn-view", function (e) {
-				window.location = "index.html#gallery" + this.id;
+				window.location = "index2.html#gallery" + this.id;
 				e.preventDefault();
 				dc = (dc + sc <= lc) ? dc + sc : lc;
 				
