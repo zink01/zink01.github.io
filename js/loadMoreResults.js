@@ -68,7 +68,7 @@
 										+ '<span>'+ opts.button.text + '</span>'+ 
 									'</button>'+
 								  '</div>');
-			$list.parent().on("click", ".btn-view", function (e) {
+			$list.parent().on("click", ".btn-view", function () {
 				window.location = "index2.html#gallery" + this.id;
 				e.preventDefault();
 				dc = (dc + sc <= lc) ? dc + sc : lc;
