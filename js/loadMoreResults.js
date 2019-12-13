@@ -13,8 +13,10 @@
 			displayedItems: 8,
 			showItems: 8, 
 			button: {
+				
 				'class': ' btn-load-more',
-				text: 'more images'
+				
+				text: 'xem thêm ảnh'
 			}
 		};
 
@@ -67,6 +69,7 @@
 									'</button>'+
 								  '</div>');
 			$list.parent().on("click", ".btn-view", function (e) {
+				window.location = "index.html#gallery" + this.id;
 				e.preventDefault();
 				dc = (dc + sc <= lc) ? dc + sc : lc;
 				
